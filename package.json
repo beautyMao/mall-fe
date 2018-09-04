@@ -1,0 +1,22 @@
+{
+  "name": "mall-fe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maomao123jhp/mall-fe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maomao123jhp/mall-fe/issues"
+  },
+  "homepage": "https://github.com/maomao123jhp/mall-fe#readme",
+  "devDependencies": {
+    "webpack": "^4.17.2"
+  }
+}
