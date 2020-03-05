@@ -10,9 +10,7 @@
 *.rej
 *.swo
 *.swp
-*.zip
 *.vi
-*~
 *.sass-cache
 *.tmp.html
 *.dump
